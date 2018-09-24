@@ -11,7 +11,7 @@ Created on Fri Sep 21 20:12:46 2018
 import numpy as np
 
 #Initialization
-x=np.arange(1000000001,1000000010,2)
+x=np.arange(999,1000000,2)
 y=[]
 
 #Define the function for iteration
