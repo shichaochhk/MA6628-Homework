@@ -27,7 +27,7 @@ def divident(x):
 
 #Find out all the prime number within the given range
 for counter in x:
-    if divident(counter)>0:
+    if divident(counter)==0:
         y.append(counter)
 
 #Create twin prime number matrix
