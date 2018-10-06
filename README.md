@@ -4,4 +4,4 @@
              [Solution](https://github.com/shichaochhk/MA6628-Homework/blob/master/Solution)
 * [Project 02](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%202.ipynb)
 * Project 03
-* Project 04
+* [Project 04](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%204.ipynb)
