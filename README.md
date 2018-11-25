@@ -9,5 +9,4 @@
   * [Project 05_1](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%2005_1.ipynb)
   * [Project 05_2](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%2005_2.ipynb)
   * [Project 05_3](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%2005_3.ipynb)
-  * [Project 05_3](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%2005_3.ipynb)
   * [Project 05_4](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%2005_4.ipynb)
