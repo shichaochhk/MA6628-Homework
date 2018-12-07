@@ -8,7 +8,7 @@
   * [Project 03_3 month](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%2003_2.ipynb)
   * [Project 03_6 month](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%2003_3.ipynb)
   * [Project 03_combined](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%2003_4.ipynb)
-  * [Project 03_comments](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%2003_4.ipynb)  
+  * [Project 03_comments](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%2003_comment.ipynb)  
 * [Project 04](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%204.ipynb)
 * Project 05
   * [Project 05_1](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%2005_1.ipynb)
