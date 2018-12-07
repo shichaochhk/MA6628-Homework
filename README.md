@@ -13,3 +13,4 @@
 * Project 06
   * [Project 06_1](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%2006-1.ipynb)
   * [Project 06_2](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%2006-2.ipynb)
+  * [Project 06_3](https://github.com/shichaochhk/MA6628-Homework/blob/master/Project%2006-2.ipynb)
